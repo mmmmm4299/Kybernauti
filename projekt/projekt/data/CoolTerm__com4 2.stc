@@ -1,0 +1,16 @@
+Port = COM4
+BaudRate = 9600
+DataBits = 8
+Parity = N
+StopBits = 1
+FlowControlCTS = false
+FlowControlDTR = false
+FlowControlXON = false
+LocalEcho = false
+EnterKeyEmulation = CRLF
+ConvertNonPrint = true
+EnableBackspace = false
+TerminateSendString = false
+TerminationString = 0D 0A
+LoopbackRXData = false
+IgnoreRXSignalErrors = false
